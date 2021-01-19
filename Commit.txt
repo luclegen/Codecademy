@@ -1,5 +1,6 @@
 
 Commit
+Details
 
 I. JAVASCRIPT
 INTRODUCTION TO JAVASCRIPT: Console
