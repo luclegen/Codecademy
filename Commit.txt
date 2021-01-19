@@ -1,6 +1,9 @@
+COMMIT
 
+* Prerequisites *
 Commit
 Details
+Settings
 
 I. JAVASCRIPT
 INTRODUCTION TO JAVASCRIPT: Console
@@ -11,3 +14,4 @@ INTRODUCTION TO JAVASCRIPT: String Concatenation
 INTRODUCTION TO JAVASCRIPT: Properties
 INTRODUCTION TO JAVASCRIPT: Methods
 INTRODUCTION TO JAVASCRIPT: Built-in Objects
+0
